@@ -26,7 +26,7 @@
 
 ## 📈 Progress Overview
 
-- 🧠 Current Level: **8 (95%)**
+- 🧠 Current Level: **11.95 (95%)**
 - 🏆 Current Rank: **6**
 - 🎯 Status: Active Cadet
 
